@@ -24,7 +24,7 @@
     "type": "git",
     "url": "https://github.com/jhlywa/chess.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "@rollup/plugin-commonjs": "^28.0.3",
     "@rollup/plugin-typescript": "^12.1.2",
     "@typescript-eslint/eslint-plugin": "^5.17.0",
